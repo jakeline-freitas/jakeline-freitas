@@ -1,16 +1,20 @@
-### Hi there 👋
+### Olá, Sou Jakeline 👋👨🏻‍💻
 
-<!--
-**jakeline-freitas/jakeline-freitas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+  Sou estudande de Analise e Desenvolvimento de Sistemas no Instituto federal de ciência e tecnologia do Rio Grande do Norte.
+Buscando aprender novas tecnologias e aspirando participar de importantes projetos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Atualmente estou trabalhando no projeto de pesquisa voltado para Inteligência Artificial Aplicada à Prática Jurídica.
+- 🌱 Atualmente aprendendo Python e PLN.
+- 🤔 Atualmente Explorando novas tecnologias.
+- 📫 Como entrar em contato comigo: jakefreaitas@gmail.com
+- ⚡ Curiosidade: Me viciei em açaí
+
+## 🛠 Conhecimentos 
+- 💻 C++ | C | Java | PHP | JavaScript
+- 🌐 HTML | CSS | Bootstrap | Materialize
+- 🛢 MySQL | PostgreSQL
+
+
+
+
