@@ -11,9 +11,9 @@ Buscando aprender novas tecnologias e aspirando participar de importantes projet
 - ⚡ Curiosidade: Me viciei em açaí
 
 ## 🛠 Conhecimentos 
-- 💻 C++ | C | Java | PHP | JavaScript | Python
+- 💻 C++ | C | Java | PHP | JavaScript | Python | Django
 - 🌐 HTML | CSS | Bootstrap | Materialize
-- 🛢 MySQL | PostgreSQL
+- 🛢 MySQL | PostgreSQL | SQLite
 
 
 
