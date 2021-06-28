@@ -5,7 +5,7 @@
 Buscando aprender novas tecnologias e aspirando participar de importantes projetos.
 
 - 🔭 Atualmente estou trabalhando no projeto de pesquisa voltado para Inteligência Artificial Aplicada à Prática Jurídica.
-- 🌱 Atualmente aprendendo Python e PLN.
+- 🌱 Atualmente aprendendo React Native.
 - 🤔 Atualmente Explorando novas tecnologias.
 - 📫 Como entrar em contato comigo: jakefreaitas@gmail.com
 - ⚡ Curiosidade: Me viciei em açaí
