@@ -1,17 +1,20 @@
-# Olá, Sou Jakeline! 👋👨🏻‍💻
+# Olá, Sou Jakeline! 👋💻
 
-Sou formada em Análise e Desenvolvimento de Sistemas pelo Instituto Federal de Ciência e Tecnologia do Rio Grande do Norte e atualmente trabalho como desenvolvedora front-end em uma empresa de ferramentas em pós-vendas.
+Sou desenvolvedora front-end formada em Análise e Desenvolvimento de Sistemas pelo IFRN. Atualmente, trabalho em uma empresa de pós-vendas, onde desenvolvo soluções que impactam positivamente a experiência dos usuários.
 
 ## 🚀 Sobre Mim
 
-- 🔭 Atualmente estou trabalhando em projetos usando Next.js e TypeScript.
-- 🌱 Estou sempre aprendendo e me atualizando, especialmente em tecnologias relacionadas ao desenvolvimento web.
-- 🤔 Sempre explorando novas tecnologias para aprimorar minhas habilidades.
-- 📫 Você pode entrar em contato comigo pelo email: jakefreaitas@gmail.com
-- ⚡ Curiosidade: Amo trilhas, acampamentos, e pratico rapel sempre que possível!
+- 🔭 **Projetos Atuais:** Desenvolvo principalmente usando **Next.js** e **TypeScript**.
+- 🌱 **Em Aprendizado Contínuo:** Sempre atualizada em novas tendências de desenvolvimento web.
+- 🤔 **Exploradora de Novas Tecnologias:** Busco constantemente aprimorar minhas habilidades e explorar novas ferramentas.
+- ⚡ **Curiosidade:** Amo trilhas, acampamentos e pratico rapel sempre que posso!
 
-## 🛠️ Conhecimentos
+## 🛠️ Tecnologias
 
-- 💻 JavaScript | TypeScript | HTML | CSS 
-- 🌐 React | Next.js | Ant Design (ANTD)
-- 🛢 MySQL | PostgreSQL | SQLite
+- **Linguagens:** JavaScript | TypeScript | HTML | CSS
+- **Frameworks e Bibliotecas:** React | Next.js | Ant Design (ANTD)
+- **Banco de Dados:** MySQL | PostgreSQL | SQLite
+
+## 📫 Contato
+
+Se quiser trocar uma ideia ou conhecer mais sobre meus projetos, envie um e-mail para: [jakefreaitas@gmail.com](mailto:jakefreaitas@gmail.com)
